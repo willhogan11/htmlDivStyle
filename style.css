@@ -1,0 +1,25 @@
+/* 
+CSS StyleSheet
+ */
+ body
+ {
+	background-color: lightblue;
+ }
+ h1
+ {
+	font-family: arial;
+	text-align: center;
+ }
+ 
+ div
+ {
+	background-color: navy;
+	color: white;
+	font-family: arial;
+	padding: 15px;
+	width: 250px;
+	margin: auto;
+	border: solid grey 10px;
+	border-radius: 40px;
+	box-shadow: 15px 15px 5px #4D4D4D;
+ }
